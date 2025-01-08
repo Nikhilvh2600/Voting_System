@@ -56,6 +56,7 @@ This project is a simple voting system designed specifically for campus election
 
 4. **Admin Panel:**
    - Admin users can log in to the admin panel and manage the election process (e.g., view results, manage users, add/remove candidates).
+   - after voting login admin panel than there is option of results you can see your result of voters
 
 ## Database Schema
 
